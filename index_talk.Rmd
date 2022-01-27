@@ -16,7 +16,7 @@ output:
       previewLinks: true
       margin: 0.00
       width: 1536
-      height: 864
+      height: 864 
 ---
 
 ```{r setup, include=FALSE}
